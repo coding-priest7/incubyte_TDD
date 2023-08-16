@@ -33,7 +33,7 @@ Initial Direction: N
 “u” - (0, 1, 0) - U\
 “b” - (0, 1, -1) - U\
 “l” - (0, 1, -1) - N\
-Final Position: (0, 1, -1)\
+Final Position: (0, 1, -1)
 
 Final Direction: N
 
@@ -43,4 +43,13 @@ Make sure to take an incremental approach and show it in the commits
 Keep your code clean, readable, and modularized
 Do not throw exceptions/handle cases for invalid arguments
 
-## Screenshots
+##Screenshots
+
+![Screenshot from 2023-08-16 13-51-22](https://github.com/coding-priest7/incubyte_TDD/assets/92102503/1e0ee88d-b7ee-4662-a12e-d1967b5ec9a5)
+
+![Screenshot from 2023-08-16 13-51-37](https://github.com/coding-priest7/incubyte_TDD/assets/92102503/963b39cf-c97c-4790-bc05-8a1d8d876404)
+
+
+
+
+
